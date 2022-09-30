@@ -1,0 +1,23 @@
+{
+  "name": "tp_solidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Synexio/tp_solidity.git"
+  },
+  "author": "Alexandre Hannagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Synexio/tp_solidity/issues"
+  },
+  "homepage": "https://github.com/Synexio/tp_solidity#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.11.2"
+  }
+}
